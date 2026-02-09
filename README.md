@@ -137,13 +137,6 @@ Dancing Links is an ingenious technique invented by Donald Knuth for efficiently
 
 The name "Dancing Links" comes from the way pointers appear to "dance" as they're updated during the covering and uncovering operations.
 
-## ⚡ Performance Characteristics
-
-- **Time Complexity**: Exponential in worst case, but extremely fast in practice due to aggressive pruning
-- **Space Complexity**: O(n²) for storing the sparse matrix representation
-- **Memory Management**: Near stack-level performance despite dynamic allocation, thanks to modern allocators and smart pointers
-- **Cache Efficiency**: Linked list structure maintains good locality of reference
-
 ## 🏆 Advantages
 
 1. **World-Class Algorithm**: DLX is recognized as one of the fastest algorithms for exact cover problems
@@ -151,6 +144,7 @@ The name "Dancing Links" comes from the way pointers appear to "dance" as they'r
 3. **Scalable**: Handles any puzzle size limited only by available memory
 4. **Maintainable**: Clean separation of concerns, well-documented code structure
 5. **Portable**: Standard C++11, no external dependencies
+6. **Memory Management**: Near stack-level performance despite dynamic allocation, thanks to modern allocators and smart pointers
 
 ## 📝 License
 
