@@ -159,7 +159,9 @@ MIT License
 Copyright (c) 2026 Royal_X
 
 https://github.com/RoyalXXX
+
 https://royalxxx.itch.io
+
 https://sourceforge.net/u/royal-x
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
