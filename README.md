@@ -1,5 +1,8 @@
 # Sudoku DLX Solver
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-11-blue?)](https://isocpp.org/)
+
 A high-performance C++ Sudoku solver implementing Knuth's **Dancing Links (DLX)** algorithm — one of the fastest exact cover algorithms in the world.
 
 ## 🚀 Key Features
@@ -155,6 +158,10 @@ MIT License
 
 Copyright (c) 2026 Royal_X
 
+https://github.com/RoyalXXX
+https://royalxxx.itch.io
+https://sourceforge.net/u/royal-x
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -180,4 +187,5 @@ SOFTWARE.
 
 ---
 
-**Note**: This implementation demonstrates that modern C++ can achieve excellent performance with dynamic memory allocation while maintaining safety and expressiveness. The use of smart pointers and RAII ensures memory safety without sacrificing speed.
+> [!NOTE] 
+> This implementation demonstrates that modern C++ can achieve excellent performance with dynamic memory allocation while maintaining safety and expressiveness. The use of smart pointers and RAII ensures memory safety without sacrificing speed.
